@@ -29,3 +29,8 @@ return a * b;
 ## Education:
 
 - Gomel City Lyceum № 1
+
+## Languages:
+
+- Russian - Native
+- English - A2
