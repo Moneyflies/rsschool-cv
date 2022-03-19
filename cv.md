@@ -25,3 +25,7 @@ function multiply(a, b){
 return a * b;
 }
 ```
+
+## Education:
+
+- Gomel City Lyceum № 1
