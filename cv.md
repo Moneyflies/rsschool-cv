@@ -10,3 +10,10 @@
 ## About me:
 
 I'm Boris. I'm a first-year student at BSUIR(Belarusian State University of Informatics and Radioelectronics). I decided to try myself in IT and I guess that this course just start to me.
+
+## Skills:
+
+- HTML
+- CSS
+- JavaScript(in the process of mastering)
+- Git, GitHub
