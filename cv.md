@@ -17,3 +17,11 @@ I'm Boris. I'm a first-year student at BSUIR(Belarusian State University of Info
 - CSS
 - JavaScript(in the process of mastering)
 - Git, GitHub
+
+## Code example:
+
+```
+function multiply(a, b){
+return a * b;
+}
+```
