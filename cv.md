@@ -30,3 +30,7 @@ return a * b;
 
 - Loader
 - Air-conditioning installer
+
+## Education:
+
+- Gomel City Lyceum № 1
