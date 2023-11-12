@@ -25,3 +25,8 @@ function multiply(a, b){
 return a * b;
 }
 ```
+
+## Work Experience:
+
+- Loader
+- Air-conditioning installer
