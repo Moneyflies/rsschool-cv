@@ -6,3 +6,7 @@
 - **E-mail:** eremchuk.boris@gmail.com
 - **GitHub:** Moneyflies
 - **Discord:** Boris#7120
+
+## About me:
+
+I'm Boris. I'm a first-year student at BSUIR(Belarusian State University of Informatics and Radioelectronics). I decided to try myself in IT and I guess that this course just start to me.
